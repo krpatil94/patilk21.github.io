@@ -1,0 +1,69 @@
+*{color:#000}
+
+.bg{
+	width:100%;
+	height:100vh;
+	background-image:url('../SMS_Images/Background.jpg');
+	background-size:100% 100%;
+	
+	
+}
+
+.form-container
+{
+	border:1px solid #fff; 
+	padding: 30px 50px;
+	margin-top:20vh;
+	-webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+a{color:#fff;
+}
+a:hover {
+    color: snow;
+    text-decoration: underline;
+}
+
+.Shift_to_Right{
+	text-align:right;
+}
+
+.Title_logo{
+	max-width:15%;
+	flex:15%;
+	text-align:center;
+}
+
+.Title_Text{
+	max-width:70%;
+	flex:70%;
+	text-align:center;
+}
+
+div.First_line{
+	margin-bottom:0rem;
+	font-size:1.5vw;
+}
+
+div.Second_line{
+	margin-bottom:0rem;	
+	font-size:2vw;
+	font-weight: bold;
+}
+
+div.Third_line{
+	margin-bottom:0.5rem;
+	font-size:1.5vw;
+}	
+
+.row{
+padding: 10px;}
+
+.responsive {
+  width: 80%;
+  height: auto;
+}
+.responsive_txt{
+font-size:1vw;}
